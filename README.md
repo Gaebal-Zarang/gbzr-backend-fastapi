@@ -4,10 +4,4 @@
 
 - python version >= 3.10
 
-## Setup steps
-
-1. 
-
-## Migration guide
-
-1. 
+## The repository will be converted to FastAPI after Django development is completed.
